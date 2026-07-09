@@ -19,10 +19,9 @@ I'm a Cloud Engineering student passionate about building **secure, scalable, an
 My approach combines hands-on projects, industry certifications, and continuous learning to bridge theory and real-world practice.
 
 - 🎓 Studying **Cloud Computing** and modern IT infrastructure
-- ☁️ Deep focus on **Microsoft Azure** — from VMs and VNets to IAM and Load Balancers
-- 📜 Actively pursuing certifications: **AZ-104** and **AZ-700** in progress
+- ☁️ Deep focus on **Microsoft Azure** 
+- 📜 Actively pursuing certifications: **AZ-104** in progress
 - 🛠️ Building hands-on projects to turn knowledge into production-ready skills
-- 🌱 Currently exploring: **Kubernetes advanced patterns** and **Terraform modules**
 
 ---
 

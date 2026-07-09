@@ -29,7 +29,7 @@ My approach combines hands-on projects, industry certifications, and continuous 
 
 | Badge | Certification | Issuer | Status |
 |-------|---------------|--------|--------|
-| 🏆 | Agile Scrum Basic | SCRUM | ✅ Conseguita |
+| 🏆 | Agile Scrum Basic | Scrum | ✅ Conseguita |
 | 🐧 | Linux Essentials | Cisco | ✅ Conseguita |
 | 🌐 | CCNA: Introduction to Networking | Cisco | ✅ Conseguita |
 | 🤖 | Claude 101 | Anthropic | ✅ Conseguita |

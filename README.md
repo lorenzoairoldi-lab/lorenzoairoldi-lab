@@ -62,41 +62,7 @@ Scripting · Automation · CLI tools · OOP · REST APIs · MVC · Backend servi
 
 ---
 
-## 📂 Featured Projects
 
-> 🔧 *Sezione in costruzione — i progetti verranno aggiunti man mano che vengono pubblicati.*
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🔗 azure-infra-lab](#) | Provisioning di infrastrutture Azure con Terraform e CI/CD via GitHub Actions | Azure · Terraform · GitHub Actions |
-| [🔗 k8s-demo-app](#) | Deploy di un'app containerizzata su Kubernetes con Ingress e autoscaling | Docker · Kubernetes · YAML |
-| [🔗 python-azure-scripts](#) | Collezione di script di automazione per la gestione di risorse Azure via CLI/SDK | Python · Azure SDK |
-
-<!-- Sostituisci i link "#" con i repository reali -->
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<!-- Sostituisci TUO-USERNAME con il tuo username GitHub -->
-
----
-
-## 🎯 Current Focus
-
-```text
-📘 AZ-104 Azure Administrator    ████████░░░░   65%
-🌐 AZ-700 Network Engineer       ████░░░░░░░░   35%
-☸️  Kubernetes Advanced Patterns  ██████░░░░░░   50%
-🏗️  Terraform Modules & State     ███████░░░░░   55%
-```
-
----
 
 <p align="center">
   <i>"Infrastructure as code today, resilient systems tomorrow."</i><br/>

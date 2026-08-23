@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Lorenzo Airoldi — Cloud Specialist</title>
+  <desc id="desc">Animated Matrix-inspired terminal header with falling green code</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#001a0d"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#00ff41" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screen"><rect width="1000" height="320" rx="14"/></clipPath>
+    <style>
+      .rain { font: 14px monospace; fill: #00ff41; opacity: .19; }
+      .rain-dim { font: 13px monospace; fill: #39ff88; opacity: .10; }
+      .title { font: 700 48px monospace; letter-spacing: 5px; fill: #e8ffef; }
+      .prompt { font: 19px monospace; fill: #8bffad; }
+      .meta { font: 13px monospace; letter-spacing: 2px; fill: #4fa966; }
+      .cursor { fill: #00ff41; animation: blink 1s steps(1) infinite; }
+      .scan { animation: scan 6s linear infinite; }
+      .r1 { animation: fall 8s linear infinite; }
+      .r2 { animation: fall 11s linear infinite -5s; }
+      .r3 { animation: fall 9s linear infinite -3s; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes fall { from { transform: translateY(-250px); } to { transform: translateY(360px); } }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(360px); } }
+      @media (prefers-reduced-motion: reduce) { .cursor, .scan, .r1, .r2, .r3 { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#screen)">
+    <rect width="1000" height="320" fill="url(#panel)"/>
+    <ellipse cx="500" cy="165" rx="440" ry="220" fill="url(#glow)"/>
+
+    <g class="rain r1">
+      <text x="30" y="0">01<tspan x="30" dy="22">10</tspan><tspan x="30" dy="22">AZ</tspan><tspan x="30" dy="22">01</tspan><tspan x="30" dy="22">TF</tspan><tspan x="30" dy="22">10</tspan></text>
+      <text x="160" y="80">DO<tspan x="160" dy="22">CK</tspan><tspan x="160" dy="22">ER</tspan><tspan x="160" dy="22">01</tspan><tspan x="160" dy="22">10</tspan></text>
+      <text x="850" y="15">CL<tspan x="850" dy="22">OU</tspan><tspan x="850" dy="22">D_</tspan><tspan x="850" dy="22">01</tspan><tspan x="850" dy="22">10</tspan></text>
+    </g>
+    <g class="rain-dim r2">
+      <text x="90" y="30">SYS<tspan x="90" dy="20">CTL</tspan><tspan x="90" dy="20">010</tspan><tspan x="90" dy="20">101</tspan><tspan x="90" dy="20">NET</tspan></text>
+      <text x="760" y="120">K8S<tspan x="760" dy="20">101</tspan><tspan x="760" dy="20">010</tspan><tspan x="760" dy="20">OPS</tspan></text>
+      <text x="930" y="60">IAC<tspan x="930" dy="20">010</tspan><tspan x="930" dy="20">101</tspan><tspan x="930" dy="20">GIT</tspan></text>
+    </g>
+    <g class="rain r3">
+      <text x="220" y="180">1010<tspan x="220" dy="22">0011</tspan><tspan x="220" dy="22">LINX</tspan><tspan x="220" dy="22">AZUR</tspan></text>
+      <text x="700" y="20">AUTO<tspan x="700" dy="22">MATE</tspan><tspan x="700" dy="22">0010</tspan><tspan x="700" dy="22">1101</tspan></text>
+    </g>
+
+    <rect class="scan" x="0" y="0" width="1000" height="2" fill="#00ff41" opacity=".18" filter="url(#softGlow)"/>
+    <rect x="205" y="70" width="590" height="180" rx="9" fill="#000000" fill-opacity=".78" stroke="#00a63c" stroke-width="1.5"/>
+    <circle cx="230" cy="93" r="5" fill="#00ff41"/><circle cx="248" cy="93" r="5" fill="#006b2d"/><circle cx="266" cy="93" r="5" fill="#003b1f"/>
+    <path d="M205 112H795" stroke="#003b1f"/>
+
+    <text x="500" y="168" text-anchor="middle" class="title" filter="url(#softGlow)">LORENZO AIROLDI</text>
+    <text x="500" y="205" text-anchor="middle" class="prompt">cloud@turin:~$ build resilient systems<tspan class="cursor">_</tspan></text>
+    <text x="500" y="232" text-anchor="middle" class="meta">AZURE // DEVOPS // INFRASTRUCTURE AS CODE</text>
+  </g>
+  <rect x="1" y="1" width="998" height="318" rx="13" fill="none" stroke="#00ff41" stroke-opacity=".35" stroke-width="2"/>
+</svg>

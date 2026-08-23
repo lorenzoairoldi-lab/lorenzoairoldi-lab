@@ -1,70 +1,113 @@
-<h1 align="center">Hi, I'm Lorenzo Airoldi 👋</h1>
-<h3 align="center">☁️ Aspiring Cloud Engineer · Azure · DevOps · IaC</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lorenzo-airoldi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=lorenzo.airoldi17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="./assets/matrix-header.svg" width="100%" alt="Lorenzo Airoldi — Cloud Specialist, Matrix animated header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00FF41&center=true&vCenter=true&width=760&lines=Cloud+Specialist+%40+ITS+ICT+Piemonte;Azure+%E2%80%A2+DevOps+%E2%80%A2+Infrastructure+as+Code;Automating+systems.+Learning+continuously." alt="Animated typing introduction" />
+</a>
+
+<br />
+
+<a href="https://lorenzoairoldi-lab.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-001a0d?style=for-the-badge&logo=githubpages&logoColor=00ff41" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/lorenzo-airoldi"><img src="https://img.shields.io/badge/LINKEDIN-001a0d?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
+<a href="mailto:lorenzo.airoldi17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-001a0d?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email" /></a>
+
+</div>
+
+## `> whoami`
+
+```console
+lorenzo@cloud-node:~$ ./profile --status
+
+NAME       Lorenzo Airoldi
+ROLE       Cloud Specialist in training
+LOCATION   Turin, Italy
+MISSION    Build secure, repeatable and resilient infrastructure
+STATUS     AZ-104 loading...
+```
+
+I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure**, **DevOps**, infrastructure automation, Linux administration and networking—with a strong preference for learning by building.
+
+- ☁️ Studying Cloud Computing at **ITS ICT Piemonte**
+- ⚙️ Exploring automation, CI/CD and **Infrastructure as Code**
+- 🐧 Working across Linux systems, containers and networks
+- 🔐 Designing with reliability and security in mind
+
+## `> load_stack --matrix`
+
+<div align="center">
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-001a0d?style=for-the-badge&logo=microsoftazure&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-001a0d?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-001a0d?style=for-the-badge&logo=kubernetes&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-001a0d?style=for-the-badge&logo=terraform&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-001a0d?style=for-the-badge&logo=githubactions&logoColor=00ff41)
+
+### Systems & Development
+
+![Linux](https://img.shields.io/badge/Linux-001a0d?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-001a0d?style=for-the-badge&logo=python&logoColor=00ff41)
+![C Sharp](https://img.shields.io/badge/C%23-001a0d?style=for-the-badge&logo=sharp&logoColor=00ff41)
+![.NET](https://img.shields.io/badge/.NET-001a0d?style=for-the-badge&logo=dotnet&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-001a0d?style=for-the-badge&logo=git&logoColor=00ff41)
+
+`Linux administration` · `Networking` · `REST APIs` · `Scripting` · `Automation`
+
+</div>
+
+## `> ls featured_projects/`
+
+| Project | What lives inside | Signal |
+| :--- | :--- | :---: |
+| [**Portfolio**](https://github.com/lorenzoairoldi-lab/Portfolio) | Interactive Cloud Engineering portfolio built with vanilla HTML, CSS and JavaScript. | `LIVE` |
+| [**Projects**](https://github.com/lorenzoairoldi-lab/Projects) | A curated collection of hands-on projects developed to sharpen technical skills. | `BUILDING` |
+| [**Tool**](https://github.com/lorenzoairoldi-lab/Tool) | DevOps, Linux, Docker and system administration guides and quick references. | `OPEN` |
+
+## `> cat certifications.log`
+
+```text
+[OK]       Agile Scrum Basic
+[OK]       Linux Essentials
+[OK]       CCNA: Introduction to Networks
+[OK]       Claude 101
+[RUNNING]  Microsoft Azure Administrator · AZ-104
+[QUEUED]   HashiCorp Terraform Associate
+```
+
+## `> monitor --github`
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lorenzoairoldi-lab&theme=github_dark" alt="Lorenzo's GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=lorenzoairoldi-lab&hide_border=true&background=000000&ring=00FF41&fire=39FF88&currStreakLabel=00FF41&sideLabels=8BFFAD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4FA966" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app?user=lorenzoairoldi-lab&hide_border=true&background=001A0D&ring=00A63C&fire=00A63C&currStreakLabel=006B2D&sideLabels=003B1F&currStreakNum=000000&sideNums=000000&dates=006B2D" alt="Lorenzo's GitHub streak" />
+</picture>
+
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzoairoldi-lab&bg_color=000000&color=8bffad&line=00ff41&point=ffffff&area=true&area_color=003b1f&hide_border=true" alt="Lorenzo's contribution activity graph" />
+
+### Contribution stream
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorenzoairoldi-lab/lorenzoairoldi-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorenzoairoldi-lab/lorenzoairoldi-lab/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution grid" src="https://raw.githubusercontent.com/lorenzoairoldi-lab/lorenzoairoldi-lab/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## 🧭 About Me
+<div align="center">
 
-I'm a Cloud Engineering student passionate about building **secure, scalable, and reliable cloud solutions** on Microsoft Azure.  
-My approach combines hands-on projects, industry certifications, and continuous learning to bridge theory and real-world practice.
+```text
+There is no cloud. It's just someone else's computer — so automate it well.
+```
 
-- 🎓 Studying **Cloud Computing** and modern IT infrastructure
-- ☁️ Deep focus on **Microsoft Azure**
-- 📜 Actively pursuing certifications: **AZ-104** in progress
-- 🛠️ Building hands-on projects to turn knowledge into production-ready skills
+![Profile views](https://komarev.com/ghpvc/?username=lorenzoairoldi-lab&label=PROFILE%20ACCESS&color=00a63c&style=flat-square)
 
----
-
-## 🏅 Certifications
-
-> 🔗 [View full certifications repository](lorenzoairoldi-lab.github.io/Portfolio)
-
-| Badge | Certification | Issuer | Status |
-|-------|---------------|--------|--------|
-| 🏆 | Agile Scrum Basic | Scrum | ✅ Conseguita |
-| 🐧 | Linux Essentials | LPI | ✅ Conseguita |
-| 🌐 | CCNA: Introduction to Networking | Cisco | ✅ Conseguita |
-| 🤖 | Claude 101 | Anthropic | ✅ Conseguita |
-| ☁️ | Azure Administrator (AZ-104) | Microsoft | 🔄 In corso |
-| 🏗️ | Terraform Associate (104) | HashiCorp | 📅 In programma |
-
----
-
-## 🧰 Tech Stack
-
-### ☁️ Cloud & DevOps
-
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-
-### 🐧 Linux & Networking
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-
-User management · Permissions · Processes · systemd · Subnetting · Routing · DNS · VLAN
-
-### 🖥️ Development
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-
-Scripting · Automation · CLI tools · OOP · REST APIs · MVC · Backend services
-
----
-
-<p align="center">
-  <i>"Infrastructure as code today, resilient systems tomorrow."</i><br/>
-  <sub>Open to collaborations, feedback, and new opportunities ☁️</sub>
-</p>
+</div>

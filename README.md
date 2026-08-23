@@ -25,7 +25,7 @@ My approach combines hands-on projects, industry certifications, and continuous 
 
 ## 🏅 Certifications
 
-> 🔗 [View full certifications repository](https://lorenzoairoldi-lab.github.io/Certifications)
+> 🔗 [View full certifications repository](lorenzoairoldi-lab.github.io/Portfolio)
 
 | Badge | Certification | Issuer | Status |
 |-------|---------------|--------|--------|

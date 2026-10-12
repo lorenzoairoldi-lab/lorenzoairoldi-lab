@@ -1,59 +1,39 @@
 <div align="center">
 
-<img src="./assets/matrix-header.svg" width="100%" alt="Lorenzo Airoldi — Cloud Specialist, Animated header" />
+<img src="./assets/header.svg" width="100%" alt="Lorenzo Airoldi — Cloud Specialist" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=00D2FF&center=true&vCenter=true&width=760&lines=Cloud+Specialist+%40+Sunnyvale+srl;Azure+%E2%80%A2+DevOps+%E2%80%A2+Infrastructure+as+Code;Automating+systems.+Learning+continuously." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=1F8FFF&center=true&vCenter=true&width=860&height=44&duration=3200&lines=Cloud+Specialist+%40+Sunnyvale+srl;Azure+%E2%80%A2+DevOps+%E2%80%A2+Infrastructure+as+Code;Building+secure%2C+repeatable+%26+resilient+infrastructure;Automating+systems.+Learning+continuously." alt="Animated typing introduction" />
 </a>
 
 <br />
 
-<a href="https://lorenzoairoldi-lab.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0A192F?style=for-the-badge&logo=githubpages&logoColor=00D2FF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/lorenzo-airoldi"><img src="https://img.shields.io/badge/LINKEDIN-0A192F?style=for-the-badge&logo=linkedin&logoColor=00D2FF" alt="LinkedIn" /></a>
-<a href="mailto:lorenzo.airoldi17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A192F?style=for-the-badge&logo=gmail&logoColor=00D2FF" alt="Email" /></a>
+<a href="https://lorenzoairoldi-lab.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0A1630?style=for-the-badge&logo=githubpages&logoColor=1F8FFF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/lorenzo-airoldi"><img src="https://img.shields.io/badge/LINKEDIN-0A1630?style=for-the-badge&logo=linkedin&logoColor=1F8FFF" alt="LinkedIn" /></a>
+<a href="mailto:lorenzo.airoldi17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A1630?style=for-the-badge&logo=gmail&logoColor=1F8FFF" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=lorenzoairoldi-lab&label=PROFILE+VIEWS&color=1F8FFF&style=for-the-badge&labelColor=0A1630" alt="Profile views" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
 ## `> whoami`
 
-<!-- macOS Terminal Window -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; border: 1px solid #1E293B; background-color: #0A192F;">
-    <!-- Terminal Header (Mac Window Controls) -->
-    <tr style="background-color: #0F172A; height: 36px;">
-      <td style="padding-left: 14px; vertical-align: middle; width: 80px;">
-        <span style="height: 12px; width: 12px; background-color: #FF5F56; border-radius: 50%; display: inline-block; margin-right: 4px;"></span>
-        <span style="height: 12px; width: 12px; background-color: #FFBD2E; border-radius: 50%; display: inline-block; margin-right: 4px;"></span>
-        <span style="height: 12px; width: 12px; background-color: #27C93F; border-radius: 50%; display: inline-block;"></span>
-      </td>
-      <td style="text-align: center; color: #94A3B8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 500; vertical-align: middle;">
-        lorenzo@cloud-node: ~ (zsh)
-      </td>
-      <td style="width: 80px;"></td>
-    </tr>
-    <!-- Terminal Content -->
-    <tr>
-      <td colspan="3" style="padding: 18px; font-family: 'Fira Code', 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; color: #FFFFFF; text-align: left;">
-        <span style="color: #00D2FF; font-weight: bold;">lorenzo@cloud-node</span>:<span style="color: #38BDF8;">~</span>$ ./profile --status<br/><br/>
-        <span style="color: #00D2FF; font-weight: bold;">NAME</span>         Lorenzo Airoldi<br/>
-        <span style="color: #00D2FF; font-weight: bold;">ROLE</span>         Cloud Specialist @ Sunnyvale srl ☀️<br/>
-        <span style="color: #00D2FF; font-weight: bold;">LOCATION</span>     Turin, Italy<br/>
-        <span style="color: #00D2FF; font-weight: bold;">MISSION</span>      Build secure, repeatable and resilient infrastructure<br/>
-        <span style="color: #00D2FF; font-weight: bold;">STATUS</span>       AZ-104 loading...
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: ./profile --status" />
 </div>
 
 <br/>
 
-I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure**, **DevOps**, infrastructure automation, Linux administration and networking—with a strong preference for learning by building.
+I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure**, **DevOps**, infrastructure automation, Linux administration and networking, with a strong preference for learning by building.
 
-- ☀️ Working as Cloud Specialist at **Sunnyvale srl**
+- ☀️ Cloud Specialist at **Sunnyvale srl**
 - ☁️ Studied Cloud Computing at **ITS ICT Piemonte**
 - ⚙️ Exploring automation, CI/CD and **Infrastructure as Code**
 - 🐧 Working across Linux systems, containers and networks
 - 🔐 Designing with reliability and security in mind
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## `> load_stack`
 
@@ -61,48 +41,85 @@ I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure
 
 ### Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0A192F?style=for-the-badge&logo=microsoftazure&logoColor=00D2FF)
-![Docker](https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=00D2FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0A192F?style=for-the-badge&logo=kubernetes&logoColor=00D2FF)
-![Terraform](https://img.shields.io/badge/Terraform-0A192F?style=for-the-badge&logo=terraform&logoColor=00D2FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A192F?style=for-the-badge&logo=githubactions&logoColor=00D2FF)
+![Azure](https://img.shields.io/badge/Azure-0A1630?style=for-the-badge&logo=microsoftazure&logoColor=1F8FFF)
+![Docker](https://img.shields.io/badge/Docker-0A1630?style=for-the-badge&logo=docker&logoColor=1F8FFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A1630?style=for-the-badge&logo=kubernetes&logoColor=1F8FFF)
+![Terraform](https://img.shields.io/badge/Terraform-0A1630?style=for-the-badge&logo=terraform&logoColor=1F8FFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A1630?style=for-the-badge&logo=githubactions&logoColor=1F8FFF)
 
 ### Systems & Development
 
-![Linux](https://img.shields.io/badge/Linux-0A192F?style=for-the-badge&logo=linux&logoColor=00D2FF)
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=00D2FF)
-![C Sharp](https://img.shields.io/badge/C%23-0A192F?style=for-the-badge&logo=sharp&logoColor=00D2FF)
-![.NET](https://img.shields.io/badge/.NET-0A192F?style=for-the-badge&logo=dotnet&logoColor=00D2FF)
-![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=00D2FF)
+![Linux](https://img.shields.io/badge/Linux-0A1630?style=for-the-badge&logo=linux&logoColor=1F8FFF)
+![Python](https://img.shields.io/badge/Python-0A1630?style=for-the-badge&logo=python&logoColor=1F8FFF)
+![C Sharp](https://img.shields.io/badge/C%23-0A1630?style=for-the-badge&logo=sharp&logoColor=1F8FFF)
+![.NET](https://img.shields.io/badge/.NET-0A1630?style=for-the-badge&logo=dotnet&logoColor=1F8FFF)
+![Git](https://img.shields.io/badge/Git-0A1630?style=for-the-badge&logo=git&logoColor=1F8FFF)
 
 `Linux administration` · `Networking` · `REST APIs` · `Scripting` · `Automation`
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
 
 ## `> ls featured_projects/`
 
-| Project | What lives inside | Signal |
-| :--- | :--- | :---: |
-| [**Portfolio**](https://github.com/lorenzoairoldi-lab/Portfolio) | Interactive Cloud Engineering portfolio built with vanilla HTML, CSS and JavaScript. | `LIVE` |
-| [**Projects**](https://github.com/lorenzoairoldi-lab/Projects) | A curated collection of hands-on projects developed to sharpen technical skills. | `BUILDING` |
-| [**Tool**](https://github.com/lorenzoairoldi-lab/Tool) | DevOps, Linux, Docker and system administration guides and quick references. | `OPEN` |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/lorenzoairoldi-lab/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoairoldi-lab&repo=Portfolio&bg_color=0A1630&title_color=FFFFFF&text_color=8FA3C7&icon_color=1F8FFF&border_color=1F8FFF&border_radius=12" alt="Portfolio" width="100%" /></a>
+      <br/><sub><code>LIVE</code> · Interactive Cloud Engineering portfolio</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/lorenzoairoldi-lab/Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoairoldi-lab&repo=Projects&bg_color=0A1630&title_color=FFFFFF&text_color=8FA3C7&icon_color=1F8FFF&border_color=1F8FFF&border_radius=12" alt="Projects" width="100%" /></a>
+      <br/><sub><code>BUILDING</code> · Hands-on technical projects</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/lorenzoairoldi-lab/Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lorenzoairoldi-lab&repo=Tool&bg_color=0A1630&title_color=FFFFFF&text_color=8FA3C7&icon_color=1F8FFF&border_color=1F8FFF&border_radius=12" alt="Tool" width="100%" /></a>
+      <br/><sub><code>OPEN</code> · DevOps, Linux & Docker quick references</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Sezione Dinamica: Ultime Attività / Repo Recenti (aggiornate via workflow GitHub o endpoint dinamico) -->
-### 🔄 Dynamically Updated Recent Activity
-<!-- GitHub Readme Recent Activity / GitHub Workflow generated content -->
-<!-- Per usare un workflow automatico si usano placeholder come <!--START_SECTION:activity-->
+<img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## `> git stats --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzoairoldi-lab&show_icons=true&hide_border=false&bg_color=0A1630&title_color=1F8FFF&text_color=FFFFFF&icon_color=1F8FFF&ring_color=1F8FFF&border_color=1F8FFF&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoairoldi-lab&layout=compact&bg_color=0A1630&title_color=1F8FFF&text_color=FFFFFF&border_color=1F8FFF&border_radius=12" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lorenzoairoldi-lab&background=0A1630&border=1F8FFF&stroke=1F8FFF55&ring=1F8FFF&fire=1F8FFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F8FFF&sideLabels=8FA3C7&dates=8FA3C7&border_radius=12" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzoairoldi-lab&bg_color=0A1630&color=FFFFFF&line=1F8FFF&point=FFFFFF&area=true&area_color=1F8FFF&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/lorenzoairoldi-lab/lorenzoairoldi-lab/output/github-snake.svg" width="100%" alt="Contribution snake" />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## `> tail -f recent_activity.log`
+
 <!--START_SECTION:activity-->
-* 🚀 Pushed to `main` in [lorenzoairoldi-lab/Projects](https://github.com/lorenzoairoldi-lab/Projects)
-* 📝 Updated documentation in [lorenzoairoldi-lab/Tool](https://github.com/lorenzoairoldi-lab/Tool)
-* 🔀 Created pull request in [lorenzoairoldi-lab/Portfolio](https://github.com/lorenzoairoldi-lab/Portfolio)
 <!--END_SECTION:activity-->
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## `> cat certifications.log`
 
-```text
-[OK]        Agile Scrum Basic
-[OK]        Linux Essentials
-[OK]        CCNA: Introduction to Networks
-[OK]        Claude 101
-[RUNNING]   Microsoft Azure Administrator · AZ-104
-[QUEUED]    HashiCorp Terraform Associate
+<div align="center">
+  <img src="./assets/certifications.svg" width="100%" alt="Certifications: Agile Scrum, Linux Essentials, CCNA, Claude 101, AZ-104 in progress, Terraform Associate queued" />
+</div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Automating systems. Learning continuously." />

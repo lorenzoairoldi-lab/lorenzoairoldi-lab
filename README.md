@@ -27,7 +27,7 @@
         <span style="height: 12px; width: 12px; background-color: #27C93F; border-radius: 50%; display: inline-block;"></span>
       </td>
       <td style="text-align: center; color: #94A3B8; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 500; vertical-align: middle;">
-        lorenzo-airoldi@cloud-engineer: ~ (zsh)
+        lorenzo@cloud-node: ~ (zsh)
       </td>
       <td style="width: 80px;"></td>
     </tr>
@@ -36,9 +36,10 @@
       <td colspan="3" style="padding: 18px; font-family: 'Fira Code', 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; color: #FFFFFF; text-align: left;">
         <span style="color: #00D2FF; font-weight: bold;">lorenzo@cloud-node</span>:<span style="color: #38BDF8;">~</span>$ ./profile --status<br/><br/>
         <span style="color: #00D2FF; font-weight: bold;">NAME</span>         Lorenzo Airoldi<br/>
-        <span style="color: #00D2FF; font-weight: bold;">ROLE</span>         Junior Cloud Specialist @ Sunnyvale srl ☀️<br/>
+        <span style="color: #00D2FF; font-weight: bold;">ROLE</span>         Cloud Specialist @ Sunnyvale srl ☀️<br/>
         <span style="color: #00D2FF; font-weight: bold;">LOCATION</span>     Turin, Italy<br/>
         <span style="color: #00D2FF; font-weight: bold;">MISSION</span>      Build secure, repeatable and resilient infrastructure<br/>
+        <span style="color: #00D2FF; font-weight: bold;">STATUS</span>       AZ-104 loading...
       </td>
     </tr>
   </table>
@@ -48,7 +49,7 @@
 
 I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure**, **DevOps**, infrastructure automation, Linux administration and networking—with a strong preference for learning by building.
 
-- ☀️ Working as Junior Cloud Specialist at **Sunnyvale srl**
+- ☀️ Working as Cloud Specialist at **Sunnyvale srl**
 - ☁️ Studied Cloud Computing at **ITS ICT Piemonte**
 - ⚙️ Exploring automation, CI/CD and **Infrastructure as Code**
 - 🐧 Working across Linux systems, containers and networks
@@ -86,6 +87,16 @@ I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure
 | [**Projects**](https://github.com/lorenzoairoldi-lab/Projects) | A curated collection of hands-on projects developed to sharpen technical skills. | `BUILDING` |
 | [**Tool**](https://github.com/lorenzoairoldi-lab/Tool) | DevOps, Linux, Docker and system administration guides and quick references. | `OPEN` |
 
+<!-- Sezione Dinamica: Ultime Attività / Repo Recenti (aggiornate via workflow GitHub o endpoint dinamico) -->
+### 🔄 Dynamically Updated Recent Activity
+<!-- GitHub Readme Recent Activity / GitHub Workflow generated content -->
+<!-- Per usare un workflow automatico si usano placeholder come <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
+* 🚀 Pushed to `main` in [lorenzoairoldi-lab/Projects](https://github.com/lorenzoairoldi-lab/Projects)
+* 📝 Updated documentation in [lorenzoairoldi-lab/Tool](https://github.com/lorenzoairoldi-lab/Tool)
+* 🔀 Created pull request in [lorenzoairoldi-lab/Portfolio](https://github.com/lorenzoairoldi-lab/Portfolio)
+<!--END_SECTION:activity-->
+
 ## `> cat certifications.log`
 
 ```text
@@ -93,3 +104,5 @@ I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure
 [OK]        Linux Essentials
 [OK]        CCNA: Introduction to Networks
 [OK]        Claude 101
+[RUNNING]   Microsoft Azure Administrator · AZ-104
+[QUEUED]    HashiCorp Terraform Associate

@@ -107,17 +107,13 @@ I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure
 
 </div>
 
-## `> tail -f recent_activity.log`
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## `> cat certifications.log`
 
 <div align="center">
-  <img src="./assets/certifications.svg" width="100%" alt="Certifications: Agile Scrum, Linux Essentials, CCNA, Claude 101, AZ-104 in progress, Terraform Associate queued" />
+  <img src="./assets/certifications.svg" width="100%" alt="Certifications: Agile Scrum, Linux Essentials, CCNA, Claude 101, " />
 </div>
 
 <br/>

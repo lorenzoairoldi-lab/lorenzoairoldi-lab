@@ -84,31 +84,6 @@ I turn cloud concepts into hands-on projects. My path combines **Microsoft Azure
 <img src="./assets/divider.svg" width="100%" alt="" />
 </div>
 
-## `> git stats --live`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzoairoldi-lab&show_icons=true&hide_border=false&bg_color=0A1630&title_color=1F8FFF&text_color=FFFFFF&icon_color=1F8FFF&ring_color=1F8FFF&border_color=1F8FFF&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoairoldi-lab&layout=compact&bg_color=0A1630&title_color=1F8FFF&text_color=FFFFFF&border_color=1F8FFF&border_radius=12" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=lorenzoairoldi-lab&background=0A1630&border=1F8FFF&stroke=1F8FFF55&ring=1F8FFF&fire=1F8FFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F8FFF&sideLabels=8FA3C7&dates=8FA3C7&border_radius=12" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzoairoldi-lab&bg_color=0A1630&color=FFFFFF&line=1F8FFF&point=FFFFFF&area=true&area_color=1F8FFF&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/lorenzoairoldi-lab/lorenzoairoldi-lab/output/github-snake.svg" width="100%" alt="Contribution snake" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-</div>
-
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## `> cat certifications.log`
 
